@@ -28,5 +28,4 @@ Menu Boot UEFI Mode
 ![NHV BOOT CREATOR-2021-08-28-15-39-16](https://user-images.githubusercontent.com/72090919/131211935-f8643fad-14fe-4dad-9077-5f929b140590.png)
 Menu Boot Legacy Mode
 ![NHV BOOT-2](https://user-images.githubusercontent.com/72090919/131212141-c10cce36-80ac-4cbc-8571-821ccb0afd31.png)
-Win10PE x64
-![NHV BOOT CREATOR-2021-08-28-15-41-39](https://user-images.githubusercontent.com/72090919/131212054-d2c64a98-3a9e-47d2-a4c9-5e9e5935ff6b.png)
+
